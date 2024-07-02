@@ -16,14 +16,16 @@ With a plethora of free resources available online, including tutorials, code sn
 
 # Output - 1
 
-![Screenshot (192)]()
+![output 1](https://github.com/JAYANT786/Responsive-Birthday-Wishes/assets/79712667/b26f73bf-e3ef-4657-a801-81015ac179ed)
 
  # Output - 2
 
-![Screenshot (193)]()
+ ![output 2](https://github.com/JAYANT786/Responsive-Birthday-Wishes/assets/79712667/6b5d5afd-cda0-46e5-b825-f744f8af8acc)
 
 # Output - 3
 
-![Screenshot (194)](https://github.com/QuantumCoding123/Day-73-Responsive-BirthDay-Wishes-Simple-Website-/assets/166281221/f36a798a-816d-4212-8fe1-eb411a64480c)
+ ![output 3](https://github.com/JAYANT786/Responsive-Birthday-Wishes/assets/79712667/c9a880fb-0aa0-456e-8b28-9dcb29f81511)
 
 # Output - 4
+
+ ![output 4](https://github.com/JAYANT786/Responsive-Birthday-Wishes/assets/79712667/c91732d3-b199-4dc2-9a95-95469e6c32f9)
